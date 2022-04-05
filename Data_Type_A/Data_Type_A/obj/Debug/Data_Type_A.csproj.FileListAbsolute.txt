@@ -1,0 +1,10 @@
+E:\Projects\C#\Data_Type_A\Data_Type_A\bin\Debug\Data_Type_A.exe.config
+E:\Projects\C#\Data_Type_A\Data_Type_A\bin\Debug\Data_Type_A.exe
+E:\Projects\C#\Data_Type_A\Data_Type_A\bin\Debug\Data_Type_A.pdb
+E:\Projects\C#\Data_Type_A\Data_Type_A\bin\Debug\MyLibrary.dll
+E:\Projects\C#\Data_Type_A\Data_Type_A\bin\Debug\MyLibrary.pdb
+E:\Projects\C#\Data_Type_A\Data_Type_A\obj\Debug\Data_Type_A.csproj.AssemblyReference.cache
+E:\Projects\C#\Data_Type_A\Data_Type_A\obj\Debug\Data_Type_A.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Data_Type_A\Data_Type_A\obj\Debug\Data_Type_A.csproj.CopyComplete
+E:\Projects\C#\Data_Type_A\Data_Type_A\obj\Debug\Data_Type_A.exe
+E:\Projects\C#\Data_Type_A\Data_Type_A\obj\Debug\Data_Type_A.pdb

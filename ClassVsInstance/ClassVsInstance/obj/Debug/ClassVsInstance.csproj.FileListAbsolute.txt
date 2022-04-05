@@ -1,0 +1,7 @@
+E:\Projects\C#\ClassVsInstance\ClassVsInstance\bin\Debug\ClassVsInstance.exe.config
+E:\Projects\C#\ClassVsInstance\ClassVsInstance\bin\Debug\ClassVsInstance.exe
+E:\Projects\C#\ClassVsInstance\ClassVsInstance\bin\Debug\ClassVsInstance.pdb
+E:\Projects\C#\ClassVsInstance\ClassVsInstance\obj\Debug\ClassVsInstance.csproj.AssemblyReference.cache
+E:\Projects\C#\ClassVsInstance\ClassVsInstance\obj\Debug\ClassVsInstance.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ClassVsInstance\ClassVsInstance\obj\Debug\ClassVsInstance.exe
+E:\Projects\C#\ClassVsInstance\ClassVsInstance\obj\Debug\ClassVsInstance.pdb

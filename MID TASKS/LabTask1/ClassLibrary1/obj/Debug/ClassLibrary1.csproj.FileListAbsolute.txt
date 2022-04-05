@@ -1,0 +1,6 @@
+E:\Projects\C#\MID TASKS\LabTask1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Projects\C#\MID TASKS\LabTask1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Projects\C#\MID TASKS\LabTask1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\Projects\C#\MID TASKS\LabTask1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Projects\C#\MID TASKS\LabTask1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Projects\C#\MID TASKS\LabTask1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

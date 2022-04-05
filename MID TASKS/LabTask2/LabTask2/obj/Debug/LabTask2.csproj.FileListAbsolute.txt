@@ -1,0 +1,7 @@
+E:\Projects\C#\MID TASKS\LabTask2\LabTask2\bin\Debug\LabTask2.exe.config
+E:\Projects\C#\MID TASKS\LabTask2\LabTask2\bin\Debug\LabTask2.exe
+E:\Projects\C#\MID TASKS\LabTask2\LabTask2\bin\Debug\LabTask2.pdb
+E:\Projects\C#\MID TASKS\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.AssemblyReference.cache
+E:\Projects\C#\MID TASKS\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.CoreCompileInputs.cache
+E:\Projects\C#\MID TASKS\LabTask2\LabTask2\obj\Debug\LabTask2.exe
+E:\Projects\C#\MID TASKS\LabTask2\LabTask2\obj\Debug\LabTask2.pdb

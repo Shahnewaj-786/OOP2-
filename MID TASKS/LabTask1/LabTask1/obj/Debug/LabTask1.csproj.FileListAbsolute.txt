@@ -1,0 +1,10 @@
+E:\Projects\C#\MID TASKS\LabTask1\LabTask1\bin\Debug\LabTask1.exe.config
+E:\Projects\C#\MID TASKS\LabTask1\LabTask1\bin\Debug\LabTask1.exe
+E:\Projects\C#\MID TASKS\LabTask1\LabTask1\bin\Debug\LabTask1.pdb
+E:\Projects\C#\MID TASKS\LabTask1\LabTask1\bin\Debug\ClassLibrary1.dll
+E:\Projects\C#\MID TASKS\LabTask1\LabTask1\bin\Debug\ClassLibrary1.pdb
+E:\Projects\C#\MID TASKS\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.AssemblyReference.cache
+E:\Projects\C#\MID TASKS\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.CoreCompileInputs.cache
+E:\Projects\C#\MID TASKS\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.CopyComplete
+E:\Projects\C#\MID TASKS\LabTask1\LabTask1\obj\Debug\LabTask1.exe
+E:\Projects\C#\MID TASKS\LabTask1\LabTask1\obj\Debug\LabTask1.pdb

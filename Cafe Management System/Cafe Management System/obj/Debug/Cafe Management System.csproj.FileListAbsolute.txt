@@ -1,0 +1,14 @@
+E:\Projects\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+E:\Projects\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+E:\Projects\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+E:\Projects\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+E:\Projects\C#\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+E:\Projects\C#\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+E:\Projects\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Presentation_Layer.CafeManagement.resources
+E:\Projects\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+E:\Projects\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+E:\Projects\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Presentation_Layer.OrderManagement.resources
+E:\Projects\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Presentation_Layer.Dashboard.resources
+E:\Projects\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Presentation_Layer.Login.resources
+E:\Projects\C#\Cafe Management System\Cafe Management System\obj\Debug\User_Registration.UserRegistration.resources

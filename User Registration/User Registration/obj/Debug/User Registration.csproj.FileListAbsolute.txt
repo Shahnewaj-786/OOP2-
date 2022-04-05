@@ -1,0 +1,11 @@
+E:\Projects\C#\User Registration\User Registration\bin\Debug\User Registration.exe.config
+E:\Projects\C#\User Registration\User Registration\bin\Debug\User Registration.exe
+E:\Projects\C#\User Registration\User Registration\bin\Debug\User Registration.pdb
+E:\Projects\C#\User Registration\User Registration\obj\Debug\User Registration.csproj.AssemblyReference.cache
+E:\Projects\C#\User Registration\User Registration\obj\Debug\User_Registration.Properties.Resources.resources
+E:\Projects\C#\User Registration\User Registration\obj\Debug\User_Registration.UserRegistration.resources
+E:\Projects\C#\User Registration\User Registration\obj\Debug\User Registration.csproj.GenerateResource.cache
+E:\Projects\C#\User Registration\User Registration\obj\Debug\User Registration.csproj.CoreCompileInputs.cache
+E:\Projects\C#\User Registration\User Registration\obj\Debug\User Registration.exe
+E:\Projects\C#\User Registration\User Registration\obj\Debug\User Registration.pdb
+E:\Projects\C#\User Registration\User Registration\obj\Debug\User_Registration.Userlist.resources

@@ -1,0 +1,16 @@
+E:\Projects\C#\newlearning\bin\Debug\net5.0\newlearning.exe
+E:\Projects\C#\newlearning\bin\Debug\net5.0\newlearning.deps.json
+E:\Projects\C#\newlearning\bin\Debug\net5.0\newlearning.runtimeconfig.json
+E:\Projects\C#\newlearning\bin\Debug\net5.0\newlearning.runtimeconfig.dev.json
+E:\Projects\C#\newlearning\bin\Debug\net5.0\newlearning.dll
+E:\Projects\C#\newlearning\bin\Debug\net5.0\ref\newlearning.dll
+E:\Projects\C#\newlearning\bin\Debug\net5.0\newlearning.pdb
+E:\Projects\C#\newlearning\obj\Debug\net5.0\newlearning.csproj.AssemblyReference.cache
+E:\Projects\C#\newlearning\obj\Debug\net5.0\newlearning.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\newlearning\obj\Debug\net5.0\newlearning.AssemblyInfoInputs.cache
+E:\Projects\C#\newlearning\obj\Debug\net5.0\newlearning.AssemblyInfo.cs
+E:\Projects\C#\newlearning\obj\Debug\net5.0\newlearning.csproj.CoreCompileInputs.cache
+E:\Projects\C#\newlearning\obj\Debug\net5.0\newlearning.dll
+E:\Projects\C#\newlearning\obj\Debug\net5.0\ref\newlearning.dll
+E:\Projects\C#\newlearning\obj\Debug\net5.0\newlearning.pdb
+E:\Projects\C#\newlearning\obj\Debug\net5.0\newlearning.genruntimeconfig.cache

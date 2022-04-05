@@ -1,0 +1,7 @@
+E:\Projects\C#\ParameterModifiers\ParameterModifiers\bin\Debug\ParameterModifiers.exe.config
+E:\Projects\C#\ParameterModifiers\ParameterModifiers\bin\Debug\ParameterModifiers.exe
+E:\Projects\C#\ParameterModifiers\ParameterModifiers\bin\Debug\ParameterModifiers.pdb
+E:\Projects\C#\ParameterModifiers\ParameterModifiers\obj\Debug\ParameterModifiers.csproj.AssemblyReference.cache
+E:\Projects\C#\ParameterModifiers\ParameterModifiers\obj\Debug\ParameterModifiers.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ParameterModifiers\ParameterModifiers\obj\Debug\ParameterModifiers.exe
+E:\Projects\C#\ParameterModifiers\ParameterModifiers\obj\Debug\ParameterModifiers.pdb

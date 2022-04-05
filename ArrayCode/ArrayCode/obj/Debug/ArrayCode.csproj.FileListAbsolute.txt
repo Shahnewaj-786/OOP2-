@@ -1,0 +1,7 @@
+E:\Projects\C#\ArrayCode\ArrayCode\bin\Debug\ArrayCode.exe.config
+E:\Projects\C#\ArrayCode\ArrayCode\bin\Debug\ArrayCode.exe
+E:\Projects\C#\ArrayCode\ArrayCode\bin\Debug\ArrayCode.pdb
+E:\Projects\C#\ArrayCode\ArrayCode\obj\Debug\ArrayCode.csproj.AssemblyReference.cache
+E:\Projects\C#\ArrayCode\ArrayCode\obj\Debug\ArrayCode.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ArrayCode\ArrayCode\obj\Debug\ArrayCode.exe
+E:\Projects\C#\ArrayCode\ArrayCode\obj\Debug\ArrayCode.pdb

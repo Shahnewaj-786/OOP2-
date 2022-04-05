@@ -1,0 +1,10 @@
+E:\Projects\C#\FirstWFA\FirstWFA\bin\Debug\FirstWFA.exe.config
+E:\Projects\C#\FirstWFA\FirstWFA\bin\Debug\FirstWFA.exe
+E:\Projects\C#\FirstWFA\FirstWFA\bin\Debug\FirstWFA.pdb
+E:\Projects\C#\FirstWFA\FirstWFA\obj\Debug\FirstWFA.csproj.AssemblyReference.cache
+E:\Projects\C#\FirstWFA\FirstWFA\obj\Debug\FirstWFA.MyForm.resources
+E:\Projects\C#\FirstWFA\FirstWFA\obj\Debug\FirstWFA.Properties.Resources.resources
+E:\Projects\C#\FirstWFA\FirstWFA\obj\Debug\FirstWFA.csproj.GenerateResource.cache
+E:\Projects\C#\FirstWFA\FirstWFA\obj\Debug\FirstWFA.csproj.CoreCompileInputs.cache
+E:\Projects\C#\FirstWFA\FirstWFA\obj\Debug\FirstWFA.exe
+E:\Projects\C#\FirstWFA\FirstWFA\obj\Debug\FirstWFA.pdb

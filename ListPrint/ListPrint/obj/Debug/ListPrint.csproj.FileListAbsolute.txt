@@ -1,0 +1,7 @@
+E:\Projects\C#\ListPrint\ListPrint\bin\Debug\ListPrint.exe.config
+E:\Projects\C#\ListPrint\ListPrint\bin\Debug\ListPrint.exe
+E:\Projects\C#\ListPrint\ListPrint\bin\Debug\ListPrint.pdb
+E:\Projects\C#\ListPrint\ListPrint\obj\Debug\ListPrint.csproj.AssemblyReference.cache
+E:\Projects\C#\ListPrint\ListPrint\obj\Debug\ListPrint.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ListPrint\ListPrint\obj\Debug\ListPrint.exe
+E:\Projects\C#\ListPrint\ListPrint\obj\Debug\ListPrint.pdb
